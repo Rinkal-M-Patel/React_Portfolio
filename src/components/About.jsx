@@ -4,8 +4,8 @@ import { FontAwesomeIcon } from '@fortawesome/react-fontawesome'
 
 export const About = () => {
 
-  // Define the URL to your PDF file
-  const pdfFileUrl = '/my_cv.pdf'; // Replace with the actual path to your PDF file
+ 
+  const pdfFileUrl = '/my_cv.pdf'; 
 
   // Function to handle the CV download
   const handleDownloadCV = () => {

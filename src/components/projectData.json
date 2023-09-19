@@ -4,6 +4,7 @@
     "title": "Horiseon",
     "deployedLink": "https://rinkal-m-patel.github.io/code_refactor_challenge/",
     "githubLink": "https://github.com/Rinkal-M-Patel/code_refactor_challenge",
+    "description":"code refector challenge ",
     "image": "../Images/module1.png"
   },
   {
@@ -11,6 +12,7 @@
     "title": "Rinkal Portfolio",
     "deployedLink": "https://rinkal-m-patel.github.io/Rinkal_portfolio/",
     "githubLink": "https://github.com/Rinkal-M-Patel/Rinkal_portfolio",
+    "description":"HTML and CSS project",
     "image": "../Images/module-2.png"
   },
   {
@@ -18,6 +20,7 @@
     "title": "Bootstrap Portfolio",
     "deployedLink": "https://rinkal-m-patel.github.io/Portfolio-Rinkal/",
     "githubLink": "https://github.com/Rinkal-M-Patel/Portfolio-Rinkal",
+    "description":"Botttstrap challenge",
     "image": "../Images/module-3.png"
   }, 
   {
@@ -25,6 +28,7 @@
     "title": "Work Day Scheduler",
     "deployedLink": "https://rinkal-m-patel.github.io/Daily_planner_app/",
     "githubLink": "https://github.com/Rinkal-M-Patel/Daily_planner_app",
+    "description":"calender app to schedule your work.",
     "image": "../Images/module-7.png"
   },
   {
@@ -32,6 +36,7 @@
     "title": "Weather Dashboard",
     "deployedLink": "https://rinkal-m-patel.github.io/Weather-Dashboard/",
     "githubLink": "https://github.com/Rinkal-M-Patel/Weather-Dashboard",
+    "description":"five day forecast weather app",
     "image": "../Images/module-8.png"
   },
   {
@@ -39,6 +44,7 @@
     "title": "Team Profile Generator",
     "deployedLink": "https://drive.google.com/file/d/1v1w97qBdToLks-T5zlW1x9i4NSDHqsVh/view",
     "githubLink": "https://github.com/Rinkal-M-Patel/Profile_Generator",
+    "description":"team profile generator challenge",
     "image": "../Images/profile-generator.png"
   }
   
