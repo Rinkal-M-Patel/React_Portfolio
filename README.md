@@ -68,7 +68,7 @@ Run the Application:
 
 ## Screenshots
 
-![react portfolio](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+![react portfolio](./public/Images/react-demo.png)
 
 
 
@@ -86,7 +86,7 @@ Run the Application:
 
 ## Demo
 
-Insert gif or link to demo
+https://reactportfolio-henna.vercel.app/
 
 
 ## License
