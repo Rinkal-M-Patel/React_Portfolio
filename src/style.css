@@ -15,6 +15,15 @@ a{
 p {
     font-family: 'Jura', sans-serif;
 }
+.logo {
+    color: #fff;
+    font-family: inherit;
+    letter-spacing: 2px;
+    font-weight: bold;
+}
+.navbar-brand:hover {
+    color: #fff;
+}
 .btn-primary {
 background-color: #da9c13;
 border: 1px solid #da9c13;
@@ -30,8 +39,13 @@ section {
     padding: 3rem 0;
 }
 
-.navbar ul li button {
+.nav-link {
     color: #fff;
+    text-transform: uppercase;
+}
+.nav-link:hover {
+    color: #da9c13;
+   
 }
 .skill-mf .progress {
     background-color: #cde1f8;

@@ -1,7 +1,12 @@
 import React, { useState } from 'react';
-import { faStar } from '@fortawesome/free-solid-svg-icons'
-import { faPhone,faLocation,faMessage} from '@fortawesome/free-solid-svg-icons';
-import { FontAwesomeIcon } from '@fortawesome/react-fontawesome'
+import { faStar,faPhone,faLocation,faMessage} from '@fortawesome/free-solid-svg-icons';
+import {
+  faFacebook,
+  faGithub,
+  faLinkedin,
+  faInstagram,
+} from '@fortawesome/free-brands-svg-icons';
+import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
 
 function Contact() {
   const [formData, setFormData] = useState({
@@ -141,30 +146,30 @@ function Contact() {
       <div className="socials">
         <ul>
           <li>
-            <a href="#">
+            <a href="/">
               <span className="ico-circle">
-              <FontAwesomeIcon icon={faLocation} />
+              <FontAwesomeIcon icon={faFacebook} size="2x" />
               </span>
             </a>
           </li>
           <li>
-            <a href="#">
+            <a href="/">
               <span className="ico-circle">
-              <FontAwesomeIcon icon={faLocation} />
+              <FontAwesomeIcon icon={faGithub} />
               </span>
             </a>
           </li>
           <li>
-            <a href="#">
+            <a href="/">
               <span className="ico-circle">
-              <FontAwesomeIcon icon={faLocation} />
+              <FontAwesomeIcon icon={faLinkedin} />
               </span>
             </a>
           </li>
           <li>
-            <a href="#">
+            <a href="/">
               <span className="ico-circle">
-              <FontAwesomeIcon icon={faLocation} />
+              <FontAwesomeIcon icon={faInstagram} />
               </span>
             </a>
           </li>

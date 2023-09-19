@@ -18,7 +18,7 @@ const Navbar = () => {
     <>
     <nav className="navbar navbar-expand-lg header-top fixed-top">
       <div className="container">
-      <Link className="navbar-brand" to="/">Rinkal</Link>
+      <a className="navbar-brand logo" href="/">Rinkal</a>
         <button
           className="navbar-toggler"
           type="button"
@@ -33,45 +33,30 @@ const Navbar = () => {
         <div className="collapse navbar-collapse" id="navbarNav">
           <ul className="navbar-nav ml-auto">
             <li className="nav-item">
-            <button
-                  className="nav-link"
-                  onClick={() => scrollToSection('#Home')}
-                >
+            <Link className="nav-link" to="/" onClick={() => scrollToSection('#Home')}>
                   Home
-                </button>
+                </Link>
             </li>
             <li className="nav-item">
-            <button
-                  className="nav-link"
-                  onClick={() => scrollToSection('#About')}
-                >
+            <Link className="nav-link" to="/" onClick={() => scrollToSection('#About')}>
                   About
-                </button>
+                </Link>
             </li>
             <li className="nav-item">
-            <button
-                  className="nav-link"
-                  onClick={() => scrollToSection('#Resume')}
-                >
+            <Link className="nav-link" to="/" onClick={() => scrollToSection('#Resume')}>
                   Resume
-                </button>
+                </Link>
             </li>
             <li className="nav-item">
-            <button
-                  className="nav-link"
-                  onClick={() => scrollToSection('#Projects')}
-                >
+            <Link className="nav-link" to="/" onClick={() => scrollToSection('#Projects')}>
                   Projects
-                </button>
+                </Link>
                 
             </li>
             <li className="nav-item">
-            <button
-                  className="nav-link"
-                  onClick={() => scrollToSection('#Contact')}
-                >
+            <Link className="nav-link" to="/" onClick={() => scrollToSection('#Contact')}>
                   Contact
-                </button>
+                </Link>
             </li>
           </ul>
         </div>

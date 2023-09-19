@@ -3,6 +3,18 @@ import { faStar } from '@fortawesome/free-solid-svg-icons'
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome'
 
 export const About = () => {
+
+  // Define the URL to your PDF file
+  const pdfFileUrl = '/my_cv.pdf'; // Replace with the actual path to your PDF file
+
+  // Function to handle the CV download
+  const handleDownloadCV = () => {
+    // Use JavaScript to simulate a click on a hidden anchor tag to trigger the download
+    const link = document.createElement('a');
+    link.href = pdfFileUrl;
+    link.download = 'my_cv.pdf'; // Specify the desired file name
+    link.click();
+  };
   return (
     <>
     <section id="About">
@@ -84,6 +96,12 @@ export const About = () => {
              user preferences.
           
                   </p>
+                  <button
+                    className="btn btn-primary"
+                    onClick={handleDownloadCV}
+                  >
+                    Download CV
+                  </button>
                   
                 </div>
               </div>

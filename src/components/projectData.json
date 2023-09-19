@@ -1,46 +1,45 @@
 [
-    {
-      "id":1,
-      "title": "Horiseon",
-      "deployedLink": "https://example.com/project1",
-      "githubLink": "https://github.com/yourusername/project1",
-      "image": "../Images/module1.png"
-    },
-    {
-      "id":2,
-      "title": "Rinkal Portfolio",
-      "deployedLink": "https://example.com/project2",
-      "githubLink": "https://github.com/yourusername/project2",
-      "image": "../Images/module-2.png"
-    },
-    {
-      "id":3,
-      "title": "Bootstrap Portfolio",
-      "deployedLink": "https://example.com/project1",
-      "githubLink": "https://github.com/yourusername/project1",
-      "image": "../Images/module-3.png"
-    }, 
-    {
-      "id":4,
-      "title": "Work Day Scheduler",
-      "deployedLink": "https://example.com/project1",
-      "githubLink": "https://github.com/yourusername/project1",
-      "image": "../Images/module-7.png"
-    },
-    {
-      "id":5,
-      "title": "Weather Dashboard",
-      "deployedLink": "https://example.com/project1",
-      "githubLink": "https://github.com/yourusername/project1",
-      "image": "../Images/module-8.png"
-    },
-    {
-      "id":6,
-      "title": "Team Profile Generator",
-      "deployedLink": "https://example.com/project1",
-      "githubLink": "https://github.com/yourusername/project1",
-      "image": "../Images/profile-generator.png"
-    }
-    
-  ]
+  {
+    "id":1,
+    "title": "Horiseon",
+    "deployedLink": "https://rinkal-m-patel.github.io/code_refactor_challenge/",
+    "githubLink": "https://github.com/Rinkal-M-Patel/code_refactor_challenge",
+    "image": "../Images/module1.png"
+  },
+  {
+    "id":2,
+    "title": "Rinkal Portfolio",
+    "deployedLink": "https://rinkal-m-patel.github.io/Rinkal_portfolio/",
+    "githubLink": "https://github.com/Rinkal-M-Patel/Rinkal_portfolio",
+    "image": "../Images/module-2.png"
+  },
+  {
+    "id":3,
+    "title": "Bootstrap Portfolio",
+    "deployedLink": "https://rinkal-m-patel.github.io/Portfolio-Rinkal/",
+    "githubLink": "https://github.com/Rinkal-M-Patel/Portfolio-Rinkal",
+    "image": "../Images/module-3.png"
+  }, 
+  {
+    "id":4,
+    "title": "Work Day Scheduler",
+    "deployedLink": "https://rinkal-m-patel.github.io/Daily_planner_app/",
+    "githubLink": "https://github.com/Rinkal-M-Patel/Daily_planner_app",
+    "image": "../Images/module-7.png"
+  },
+  {
+    "id":5,
+    "title": "Weather Dashboard",
+    "deployedLink": "https://rinkal-m-patel.github.io/Weather-Dashboard/",
+    "githubLink": "https://github.com/Rinkal-M-Patel/Weather-Dashboard",
+    "image": "../Images/module-8.png"
+  },
+  {
+    "id":6,
+    "title": "Team Profile Generator",
+    "deployedLink": "https://drive.google.com/file/d/1v1w97qBdToLks-T5zlW1x9i4NSDHqsVh/view",
+    "githubLink": "https://github.com/Rinkal-M-Patel/Profile_Generator",
+    "image": "../Images/profile-generator.png"
+  }
   
+]
