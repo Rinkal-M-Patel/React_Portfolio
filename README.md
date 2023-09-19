@@ -68,7 +68,7 @@ Run the Application:
 
 ## Screenshots
 
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+![react portfolio](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
 
 
 
