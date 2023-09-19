@@ -1,0 +1,46 @@
+[
+    {
+      "id":1,
+      "title": "Horiseon",
+      "deployedLink": "https://example.com/project1",
+      "githubLink": "https://github.com/yourusername/project1",
+      "image": "../Images/module1.png"
+    },
+    {
+      "id":2,
+      "title": "Rinkal Portfolio",
+      "deployedLink": "https://example.com/project2",
+      "githubLink": "https://github.com/yourusername/project2",
+      "image": "../Images/module-2.png"
+    },
+    {
+      "id":3,
+      "title": "Bootstrap Portfolio",
+      "deployedLink": "https://example.com/project1",
+      "githubLink": "https://github.com/yourusername/project1",
+      "image": "../Images/module-3.png"
+    }, 
+    {
+      "id":4,
+      "title": "Work Day Scheduler",
+      "deployedLink": "https://example.com/project1",
+      "githubLink": "https://github.com/yourusername/project1",
+      "image": "../Images/module-7.png"
+    },
+    {
+      "id":5,
+      "title": "Weather Dashboard",
+      "deployedLink": "https://example.com/project1",
+      "githubLink": "https://github.com/yourusername/project1",
+      "image": "../Images/module-8.png"
+    },
+    {
+      "id":6,
+      "title": "Team Profile Generator",
+      "deployedLink": "https://example.com/project1",
+      "githubLink": "https://github.com/yourusername/project1",
+      "image": "../Images/profile-generator.png"
+    }
+    
+  ]
+  
