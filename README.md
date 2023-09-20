@@ -68,7 +68,7 @@ Run the Application:
 
 ## Screenshots
 
-![react portfolio](./public/Images/react-demo.png)
+![react portfolio]()
 
 
 
