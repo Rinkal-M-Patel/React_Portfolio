@@ -16,56 +16,49 @@ export const Resume = () => {
     
       const education = [
         {
-          course: 'Online Traineeship In Web Development',
-          date: '2021 - 2022',
-          institution: 'IT Career Switch',
+          course: 'one',
+          date: '2021',
+          institution: 'IT Career',
         },
         {
-          course: 'Master of Computer Application (MCA)',
-          date: '2013 - 2015',
-          institution: 'Charotar University of Science And Technology - India',
+          course: 'two',
+          date: '2015',
+          institution: 'India',
         },
         {
-          course: 'Bachelor of Computer Application (BCA)',
+          course: 'three',
           date: '2010 - 2013',
-          institution: 'Veer Narmad South Gujarat University - India',
+          institution: 'India',
         },
       ];
     
       const professionalExperience = [
         {
-          position: 'Junior Front-End Developer',
-          date: '2021 - Dec 2022',
-          company: 'Saigate Limited, Wolverhampton (UK)',
+          position: 'Front-End Developer',
+          date: '2021',
+          company: ' (UK)',
           responsibilities: [
             'Developed wireframes, interface mockups, and page prototypes.',
-            'Produced graphic user interfaces for desktop browsers, tablets, and mobile devices.',
-            'Role included front-end development of fully responsive themes from Photoshop designs.',
-            'Developed WordPress Themes, Plugins, and extensions for the WordPress platform.',
+           
            
           ],
         },
         {
           position: 'Web Designer',
-          date: '2016 - 2019',
-          company: 'Technoheaven Consultancy, India',
+          date: '111',
+          company: ' India',
           responsibilities: [
             'Enhanced functionality and appearance of websites and repaired functionality issues.',
-            'Promoted brand identity by creating company logos using Photoshop and delivering attractive, user-friendly and unique websites.',
-            'Translated customer requirements into technical site concepts for bidding and initial planning purposes.',
             
           ],
         },
         {
-          position: 'Web Design Intern',
-          date: '2015 - 2016',
-          company: 'Logica Onfosoft, India',
+          position: 'Web Design',
+          date: '200',
+          company: 'India',
           responsibilities: [
             'Developed user interfaces with modern JavaScript frameworks, HTML5, and CSS3.',
-            'Followed best practices for web design with Bootstrap.',
-            'Troubleshooted and debugged code ensuring compatibility with devices and browsers.',
-            'Shadowed developers to learn key details about job duties and tasks.',
-            
+           
           ],
         },
       ];
